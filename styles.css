@@ -1,0 +1,82 @@
+body {
+    background-color: #16032A;
+    margin: 0;
+}
+
+/*-------------------------------Top header navigation bar------------------------*/
+.container-nav {
+    background-color: #251942;
+    position: sticky;
+    top: 0;
+    display: grid;
+    grid-template-columns: 88% 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+}
+
+.container-nav * {margin: auto; padding: 0.3em 0;}
+
+.logo { grid-area: 1 / 1 / 2 / 2; margin: auto auto auto 2em;}
+
+.dp { grid-area: 1 / 2 / 2 / 3; }
+
+.right-nav-button { grid-area: 1 / 3 / 2 / 4; }
+
+/*-------------------------------side bar and main----------------------------------*/
+.container {
+    display: flex;
+}
+
+.container__sidebar {
+    width: 30%;
+}
+
+.container__main {
+    /* Take the remaining width */
+    flex: 1;
+
+    /* Make it scrollable */
+    overflow: auto;
+}
+
+/*------------------------------------side bar-------------------------------------*/
+.flex-container-sb {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: normal;
+    align-items: normal;
+    align-content: normal;
+  }
+  
+  .flex-container-sb * {
+    margin: 0.25em 0.25em 0em 0.25em;
+    background-color: #251942;
+  }
+  .flex-items-sb:nth-child(1) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+    height: 10%;
+  }
+  
+  .flex-items-sb:nth-child(2) {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
+    height: 70%;
+  }
+
+  .arrow {
+    top: 95px;
+    left: 18px;
+    width: 8px;
+    height: 17px;
+  }
