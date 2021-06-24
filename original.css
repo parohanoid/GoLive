@@ -1,0 +1,1289 @@
+.mediaViewInfo {
+  --web-view-name: Desktop – 18;
+  --web-view-id: Desktop__18;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Desktop__18;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Desktop__18 {
+  position: absolute;
+  width: 1366px;
+  height: 945px;
+  background-color: rgba(22, 3, 42, 1);
+  overflow: hidden;
+  --web-view-name: Desktop – 18;
+  --web-view-id: Desktop__18;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Rectangle_1075 {
+  fill: rgba(33, 18, 58, 1);
+}
+.Rectangle_1075 {
+  position: absolute;
+  overflow: visible;
+  width: 1008px;
+  height: 226px;
+  left: 329px;
+  top: 143px;
+}
+#Rectangle_1073 {
+  fill: rgba(37, 25, 66, 1);
+}
+.Rectangle_1073 {
+  position: absolute;
+  overflow: visible;
+  width: 300px;
+  height: 633px;
+  left: 0px;
+  top: 135px;
+}
+#Rectangle_1072 {
+  fill: rgba(37, 25, 66, 1);
+}
+.Rectangle_1072 {
+  position: absolute;
+  overflow: visible;
+  width: 300px;
+  height: 60px;
+  left: 0px;
+  top: 73px;
+}
+#Group_742 {
+  transform: matrix(1, 0, 0, 1, 18.4993, 94.9999) rotate(180deg);
+  transform-origin: center;
+  position: absolute;
+  width: 8px;
+  height: 16.552px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Subtraction_195 {
+  fill: rgba(186, 50, 255, 1);
+}
+.Subtraction_195 {
+  overflow: visible;
+  position: absolute;
+  width: 8px;
+  height: 16.552px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#new_age_esports_create_tournam {
+  left: 45px;
+  top: 82px;
+  position: absolute;
+  overflow: visible;
+  width: 163px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#create {
+  left: 45px;
+  top: 165px;
+  position: absolute;
+  overflow: visible;
+  width: 61px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#Setup_Brackets_Streams_Publish {
+  left: 45px;
+  top: 193px;
+  position: absolute;
+  overflow: visible;
+  width: 56px;
+  white-space: nowrap;
+  line-height: 20px;
+  margin-top: -3px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+}
+#Share {
+  left: 45px;
+  top: 301px;
+  position: absolute;
+  overflow: visible;
+  width: 55px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#Invite_Players_Embed_Codes {
+  left: 45px;
+  top: 329px;
+  position: absolute;
+  overflow: visible;
+  width: 91px;
+  white-space: nowrap;
+  line-height: 20px;
+  margin-top: -3px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(124, 117, 141, 1);
+}
+#basics {
+  left: 329px;
+  top: 91px;
+  position: absolute;
+  overflow: visible;
+  width: 58px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#map_picks {
+  left: 420px;
+  top: 91px;
+  position: absolute;
+  overflow: visible;
+  width: 86px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#Help {
+  left: 1308px;
+  top: 92px;
+  position: absolute;
+  overflow: visible;
+  width: 34px;
+  white-space: nowrap;
+  line-height: 16px;
+  margin-top: -0.5px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  color: rgba(186, 50, 255, 1);
+}
+#Rectangle_1074 {
+  fill: rgba(186, 50, 255, 1);
+}
+.Rectangle_1074 {
+  position: absolute;
+  overflow: visible;
+  width: 51px;
+  height: 5px;
+  left: 329px;
+  top: 119px;
+}
+#Match_Details {
+  left: 348px;
+  top: 158px;
+  position: absolute;
+  overflow: visible;
+  width: 131px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#selected_tournament {
+  left: 359px;
+  top: 214px;
+  position: absolute;
+  overflow: visible;
+  width: 169px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -18.5px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  color: rgba(86, 55, 162, 1);
+  text-transform: uppercase;
+}
+#Sky_league_tournament {
+  opacity: 0.9;
+  left: 359px;
+  top: 233px;
+  position: absolute;
+  overflow: visible;
+  width: 308px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -13.5px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#Rectangle_1077 {
+  fill: transparent;
+  stroke: rgba(86, 55, 162, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1077 {
+  position: absolute;
+  overflow: visible;
+  width: 464px;
+  height: 50px;
+  left: 359px;
+  top: 289px;
+}
+#Mar_10_2021 {
+  opacity: 0.9;
+  left: 374px;
+  top: 301px;
+  position: absolute;
+  overflow: visible;
+  width: 105px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+}
+#Polygon_9 {
+  fill: rgba(22, 3, 42, 1);
+}
+.Polygon_9 {
+  overflow: visible;
+  position: absolute;
+  width: 40px;
+  height: 15.5px;
+  transform: matrix(1, 0, 0, 1, 275.25, 196.75) rotate(-90deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+#Rectangle_1083 {
+  fill: rgba(33, 18, 58, 1);
+}
+.Rectangle_1083 {
+  position: absolute;
+  overflow: visible;
+  width: 1008px;
+  height: 230px;
+  left: 329px;
+  top: 383px;
+}
+#Group_866 {
+  position: absolute;
+  width: 128px;
+  height: 50px;
+  left: 1209px;
+  top: 861px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Desktop___28.html;
+  cursor: pointer;
+}
+#Rectangle_1084 {
+  fill: rgba(186, 50, 255, 1);
+}
+.Rectangle_1084 {
+  position: absolute;
+  overflow: visible;
+  width: 128px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+}
+#Next {
+  left: 47px;
+  top: 13px;
+  position: absolute;
+  overflow: visible;
+  width: 44px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#fi-rr-calendar {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 782px;
+  top: 302px;
+  overflow: visible;
+}
+#Path_5083 {
+  fill: rgba(186, 50, 255, 1);
+}
+.Path_5083 {
+  overflow: visible;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Ellipse_372 {
+  fill: rgba(186, 50, 255, 1);
+}
+.Ellipse_372 {
+  position: absolute;
+  overflow: visible;
+  width: 3px;
+  height: 3px;
+  left: 10.5px;
+  top: 13.5px;
+}
+#Ellipse_373 {
+  fill: rgba(186, 50, 255, 1);
+}
+.Ellipse_373 {
+  position: absolute;
+  overflow: visible;
+  width: 3px;
+  height: 3px;
+  left: 5.5px;
+  top: 13.5px;
+}
+#Ellipse_374 {
+  fill: rgba(186, 50, 255, 1);
+}
+.Ellipse_374 {
+  position: absolute;
+  overflow: visible;
+  width: 3px;
+  height: 3px;
+  left: 15.5px;
+  top: 13.5px;
+}
+#Group_864 {
+  position: absolute;
+  width: 464px;
+  height: 50px;
+  left: 843px;
+  top: 289px;
+  overflow: visible;
+}
+#Group_862 {
+  position: absolute;
+  width: 464px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_1204 {
+  fill: transparent;
+  stroke: rgba(86, 55, 162, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1204 {
+  position: absolute;
+  overflow: visible;
+  width: 464px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+}
+#Match_type {
+  left: 15px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 104px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(86, 55, 162, 1);
+  text-transform: uppercase;
+}
+#type_home_team_score {
+  left: 374px;
+  top: 529px;
+  position: absolute;
+  overflow: visible;
+  width: 206px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(86, 55, 162, 1);
+  text-transform: uppercase;
+}
+#Rectangle_1206 {
+  fill: transparent;
+  stroke: rgba(86, 55, 162, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1206 {
+  position: absolute;
+  overflow: visible;
+  width: 464px;
+  height: 50px;
+  left: 359px;
+  top: 517px;
+}
+#Group_865 {
+  position: absolute;
+  width: 464px;
+  height: 50px;
+  left: 843px;
+  top: 517px;
+  overflow: visible;
+}
+#ID5 {
+  left: 15px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 11px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#Rectangle_1207 {
+  fill: transparent;
+  stroke: rgba(86, 55, 162, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1207 {
+  position: absolute;
+  overflow: visible;
+  width: 464px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+}
+#Rectangle_1079 {
+  fill: transparent;
+  stroke: rgba(86, 55, 162, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1079 {
+  position: absolute;
+  overflow: visible;
+  width: 464px;
+  height: 50px;
+  left: 359px;
+  top: 452px;
+}
+#home_team {
+  left: 723px;
+  top: 464px;
+  position: absolute;
+  overflow: visible;
+  width: 104px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(186, 50, 255, 1);
+  text-transform: uppercase;
+}
+#Delhi_dragons {
+  left: 411px;
+  top: 464px;
+  position: absolute;
+  overflow: visible;
+  width: 137px;
+  white-space: nowrap;
+  line-height: 47px;
+  margin-top: -14.5px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#Delhi_Dragons {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 368px;
+  top: 459px;
+  overflow: visible;
+}
+#guest_team {
+  left: 1202px;
+  top: 464px;
+  position: absolute;
+  overflow: visible;
+  width: 105px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(186, 50, 255, 1);
+  text-transform: uppercase;
+}
+#Teams_and_score {
+  left: 348px;
+  top: 398px;
+  position: absolute;
+  overflow: visible;
+  width: 157px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#Rectangle_1208 {
+  fill: rgba(33, 18, 58, 1);
+}
+.Rectangle_1208 {
+  position: absolute;
+  overflow: visible;
+  width: 1008px;
+  height: 219px;
+  left: 329px;
+  top: 627px;
+}
+#Rectangle_1210 {
+  fill: transparent;
+  stroke: rgba(86, 55, 162, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1210 {
+  position: absolute;
+  overflow: visible;
+  width: 464px;
+  height: 50px;
+  left: 359px;
+  top: 696px;
+}
+#result__1_-_2 {
+  left: 695px;
+  top: 708px;
+  position: absolute;
+  overflow: visible;
+  width: 110px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: right;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(186, 50, 255, 1);
+  text-transform: uppercase;
+}
+#community_predictions {
+  left: 348px;
+  top: 642px;
+  position: absolute;
+  overflow: visible;
+  width: 222px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#type_poll_percentage {
+  left: 374px;
+  top: 708px;
+  position: absolute;
+  overflow: visible;
+  width: 195px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(86, 55, 162, 1);
+  text-transform: uppercase;
+}
+#Rectangle_1211 {
+  fill: transparent;
+  stroke: rgba(86, 55, 162, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1211 {
+  position: absolute;
+  overflow: visible;
+  width: 464px;
+  height: 50px;
+  left: 843px;
+  top: 696px;
+}
+#result__2_-_1 {
+  left: 1179px;
+  top: 708px;
+  position: absolute;
+  overflow: visible;
+  width: 110px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: right;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(186, 50, 255, 1);
+  text-transform: uppercase;
+}
+#ID35 {
+  left: 858px;
+  top: 708px;
+  position: absolute;
+  overflow: visible;
+  width: 35px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#Rectangle_1212 {
+  fill: transparent;
+  stroke: rgba(86, 55, 162, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1212 {
+  position: absolute;
+  overflow: visible;
+  width: 464px;
+  height: 50px;
+  left: 359px;
+  top: 761px;
+}
+#result__3_-_0 {
+  left: 695px;
+  top: 773px;
+  position: absolute;
+  overflow: visible;
+  width: 110px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: right;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(186, 50, 255, 1);
+  text-transform: uppercase;
+}
+#ID20 {
+  left: 374px;
+  top: 773px;
+  position: absolute;
+  overflow: visible;
+  width: 35px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#Rectangle_1213 {
+  fill: transparent;
+  stroke: rgba(86, 55, 162, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1213 {
+  position: absolute;
+  overflow: visible;
+  width: 464px;
+  height: 50px;
+  left: 843px;
+  top: 761px;
+}
+#result__3_-_0_ca {
+  left: 1179px;
+  top: 773px;
+  position: absolute;
+  overflow: visible;
+  width: 110px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: right;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(186, 50, 255, 1);
+  text-transform: uppercase;
+}
+#type_the_poll_percentage {
+  left: 858px;
+  top: 773px;
+  position: absolute;
+  overflow: visible;
+  width: 231px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(86, 55, 162, 1);
+  text-transform: uppercase;
+}
+#The_input_should_be_the_number {
+  opacity: 0.9;
+  left: 843px;
+  top: 572px;
+  position: absolute;
+  overflow: visible;
+  width: 302px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -19px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(255, 79, 97, 1);
+  letter-spacing: 0.5px;
+}
+#Component_20__1 {
+  position: absolute;
+  width: 464px;
+  height: 50px;
+  left: 843px;
+  top: 452px;
+  overflow: visible;
+}
+#Rectangle_1080 {
+  fill: transparent;
+  stroke: rgba(86, 55, 162, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_1080 {
+  position: absolute;
+  overflow: visible;
+  width: 464px;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+}
+#select_team {
+  left: 15px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 109px;
+  white-space: nowrap;
+  line-height: 52px;
+  margin-top: -17px;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  color: rgba(86, 55, 162, 1);
+  text-transform: uppercase;
+}
+#home_team_stats {
+  left: 531px;
+  top: 91px;
+  position: absolute;
+  overflow: visible;
+  width: 156px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#guest_team_stats {
+  left: 699px;
+  top: 91px;
+  position: absolute;
+  overflow: visible;
+  width: 158px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Rajdhani;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+#Group_867 {
+  position: absolute;
+  width: 1374px;
+  height: 70px;
+  left: -4px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_4 {
+  fill: rgba(37, 25, 66, 1);
+}
+.Rectangle_4 {
+  position: absolute;
+  overflow: visible;
+  width: 1374px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+}
+#menu-icon {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 1290.334px;
+  top: 11px;
+  overflow: visible;
+}
+#Path_1 {
+  fill: transparent;
+}
+.Path_1 {
+  overflow: visible;
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Group_1 {
+  position: absolute;
+  width: 48px;
+  height: 14.001px;
+  left: 0px;
+  top: 17px;
+  overflow: visible;
+}
+#Path_2 {
+  fill: rgba(250, 250, 250, 1);
+}
+.Path_2 {
+  overflow: visible;
+  position: absolute;
+  width: 48px;
+  height: 14.001px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Group_699 {
+  position: absolute;
+  width: 153.666px;
+  height: 50.8px;
+  left: 35px;
+  top: 10px;
+  overflow: visible;
+}
+#Path_4912 {
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 10;
+  shape-rendering: auto;
+}
+.Path_4912 {
+  overflow: visible;
+  position: absolute;
+  width: 155.667px;
+  height: 52.8px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Group_700 {
+  position: absolute;
+  width: 87.101px;
+  height: 14.51px;
+  left: 1.014px;
+  top: 13.634px;
+  overflow: visible;
+}
+#Group_699_cr {
+  position: absolute;
+  width: 87.101px;
+  height: 14.51px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Path_4913 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4913 {
+  overflow: visible;
+  position: absolute;
+  width: 12.057px;
+  height: 14.51px;
+  left: -0.001px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4914 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4914 {
+  overflow: visible;
+  position: absolute;
+  width: 13.678px;
+  height: 14.49px;
+  left: 13.697px;
+  top: 0.02px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4915 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4915 {
+  overflow: visible;
+  position: absolute;
+  width: 12.058px;
+  height: 14.51px;
+  left: 29.08px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4916 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4916 {
+  overflow: visible;
+  position: absolute;
+  width: 14.104px;
+  height: 13.982px;
+  left: 41.219px;
+  top: 0.306px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4917 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4917 {
+  overflow: visible;
+  position: absolute;
+  width: 17.267px;
+  height: 13.963px;
+  left: 56.135px;
+  top: 0.324px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4918 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4918 {
+  overflow: visible;
+  position: absolute;
+  width: 11.835px;
+  height: 13.982px;
+  left: 75.266px;
+  top: 0.306px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Group_702 {
+  opacity: 0.3;
+  position: absolute;
+  width: 7.576px;
+  height: 7.299px;
+  left: 17.652px;
+  top: 17.172px;
+  overflow: visible;
+}
+#Group_701 {
+  position: absolute;
+  width: 7.576px;
+  height: 7.299px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Path_4919 {
+  fill: rgba(15, 34, 122, 1);
+}
+.Path_4919 {
+  overflow: visible;
+  position: absolute;
+  width: 7.576px;
+  height: 7.299px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Group_703 {
+  position: absolute;
+  width: 7.576px;
+  height: 7.299px;
+  left: 17.105px;
+  top: 16.247px;
+  overflow: visible;
+}
+#Path_4920 {
+  fill: rgba(16, 10, 38, 1);
+}
+.Path_4920 {
+  overflow: visible;
+  position: absolute;
+  width: 7.576px;
+  height: 7.299px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Group_705 {
+  position: absolute;
+  width: 37.21px;
+  height: 14.166px;
+  left: 88.727px;
+  top: 13.921px;
+  overflow: visible;
+}
+#Group_704 {
+  position: absolute;
+  width: 37.21px;
+  height: 14.166px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Path_4921 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4921 {
+  overflow: visible;
+  position: absolute;
+  width: 3.853px;
+  height: 3.506px;
+  left: 0px;
+  top: 10.66px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4922 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4922 {
+  overflow: visible;
+  position: absolute;
+  width: 10.779px;
+  height: 13.984px;
+  left: 5.271px;
+  top: 0.02px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4923 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4923 {
+  overflow: visible;
+  position: absolute;
+  width: 5.573px;
+  height: 13.984px;
+  left: 16.76px;
+  top: 0.02px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4924 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4924 {
+  overflow: visible;
+  position: absolute;
+  width: 13.904px;
+  height: 14.004px;
+  left: 23.306px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4925 {
+  fill: rgba(40, 229, 102, 1);
+}
+.Path_4925 {
+  overflow: visible;
+  position: absolute;
+  width: 13.796px;
+  height: 2.894px;
+  left: 123.006px;
+  top: 25.153px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4926 {
+  fill: rgba(255, 128, 0, 1);
+}
+.Path_4926 {
+  overflow: visible;
+  position: absolute;
+  width: 13.796px;
+  height: 2.894px;
+  left: 128.105px;
+  top: 13.921px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_4927 {
+  fill: rgba(254, 254, 254, 1);
+}
+.Path_4927 {
+  overflow: visible;
+  position: absolute;
+  width: 7.515px;
+  height: 2.857px;
+  left: 125.458px;
+  top: 19.556px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#player-picture-12x {
+  position: absolute;
+  width: 45.454px;
+  height: 45.455px;
+  left: 1214.91px;
+  top: 12px;
+  overflow: visible;
+}
